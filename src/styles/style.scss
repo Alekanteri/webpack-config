@@ -1,0 +1,14 @@
+@use "variable";
+
+body {
+  margin: 0;
+  background: #9370d8;
+  background-image: url("../images/avatar.jpeg");
+  
+  div {
+    margin: 0 auto;
+    font-size: 4rem;
+    text-align: center;
+    color: variable.$text-color;
+  }
+}
