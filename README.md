@@ -10,7 +10,7 @@
 
 <h3>
 
-This is my personal build of webpack, which will be improved as much as possible in the future.
+This is my personal build of webpack, which will be improved as much as possible in the future. The assembly works stably with both javascript and typescript
 
 </h3>
 
