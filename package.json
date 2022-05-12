@@ -4,7 +4,7 @@
   "main": "index.js",
   "type": "module",
   "private": "true",
-  "repository": "https://github.com/Alekanteri/webpack-react.git",
+  "repository": "https://github.com/Alekanteri/webpack-config.git",
   "author": "Alex Avetisov <sandor.basc@gmail.com>",
   "license": "MIT",
   "scripts": {
